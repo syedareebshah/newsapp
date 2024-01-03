@@ -1,0 +1,9 @@
+.navLogo {
+  height: 50px !important;
+  width: 50px !important;
+  margin: 17px auto;
+}
+.list {
+  width: 100%;
+  --background: transparent !important;
+}

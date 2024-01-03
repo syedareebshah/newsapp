@@ -1,0 +1,47 @@
+[
+  {
+    "channel": "AryNews",
+    "img": "https://seeklogo.com/images/A/ary-news-logo-F2E62D53D8-seeklogo.com.png"
+  },
+  {
+    "channel": "DunyaNews",
+    "img": "https://upload.wikimedia.org/wikipedia/en/1/10/Dunya_News.jpg"
+  },
+  {
+    "channel": "ExpressNews",
+    "img": "https://seeklogo.com/images/E/express-news-logo-548646E4CD-seeklogo.com.png"
+  },
+  {
+    "channel": "bolNews",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/f3/BOL_News_logo.png"
+  },
+  {
+    "channel": "SamaaNews",
+    "img": "https://pakistani.pk/uploads/reviews/photos/thumbnail/1500x500s/2d/47/b7/Samaa20News20Live20Cover202-10-1476736312.jpg"
+  },
+  {
+    "channel": "GnnNews",
+    "img": "https://upload.wikimedia.org/wikipedia/en/1/1b/GNN_News_logo.png"
+  },
+  {
+    "channel": "DawnNews",
+    "img": "https://upload.wikimedia.org/wikipedia/en/d/d2/Dawn_News.jpg"
+  },
+
+  {
+    "channel": "ptv",
+    "img": "https://ptv.com.pk/user/assets/images/History/ptvnews.png"
+  },
+  {
+    "channel": "92News",
+    "img": "https://upload.wikimedia.org/wikipedia/en/e/e1/92_News_HD_Plus_logo.png"
+  },
+  {
+    "channel": "HumNews",
+    "img": "https://upload.wikimedia.org/wikipedia/en/b/bb/HUM_News_Logo.png"
+  },
+  {
+    "channel": "aajNews",
+    "img": "https://upload.wikimedia.org/wikipedia/en/0/06/Aaj_News_%28television_channel%29_logo.png"
+  }
+]

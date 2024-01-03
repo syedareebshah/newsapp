@@ -1,0 +1,21 @@
+version: 2.1
+
+orbs:
+  node: circleci/node@5.1.0
+
+jobs:
+  build-app:
+    executor: node/default
+    steps:
+      - checkout
+      - run:
+          name: npm i
+          command: npm install
+      - run:
+          name: Building App
+          command: npm run build
+
+workflows:
+  sample:
+    jobs:
+      - build-app
